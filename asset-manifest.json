@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/afif-movie-finder/static/css/main.8556c9f1.css",
+    "main.js": "/afif-movie-finder/static/js/main.cf19627b.js",
+    "static/js/787.fd35b403.chunk.js": "/afif-movie-finder/static/js/787.fd35b403.chunk.js",
+    "index.html": "/afif-movie-finder/index.html",
+    "main.8556c9f1.css.map": "/afif-movie-finder/static/css/main.8556c9f1.css.map",
+    "main.cf19627b.js.map": "/afif-movie-finder/static/js/main.cf19627b.js.map",
+    "787.fd35b403.chunk.js.map": "/afif-movie-finder/static/js/787.fd35b403.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8556c9f1.css",
+    "static/js/main.cf19627b.js"
+  ]
+}
